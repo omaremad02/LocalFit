@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.jumbotron {
+    background-size: cover;
+}
+
+.alert {
+    margin-bottom: 20px;
+}
+
+.auth-form .form-group {
+    margin-bottom: 15px;
+}
+
+.auth-form input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.auth-form .btn {
+    width: 100%;
+    padding: 10px;
+}
